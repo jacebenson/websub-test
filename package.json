@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jacebenson/websub-test#readme",
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "rss-parser": "^3.12.0"
   }
 }
